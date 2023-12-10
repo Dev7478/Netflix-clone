@@ -1,2 +1,5 @@
 # Netflix-clone
-Web dev projects
+Web dev project.
+
+Here it's deploy link--
+https://dev-netflix.netlify.app
